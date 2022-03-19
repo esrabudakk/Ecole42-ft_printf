@@ -1,2 +1,4 @@
 # Ecole42-ft_printf
- Write printf library
+
+-Write printf library.
+-%100
